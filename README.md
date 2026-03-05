@@ -1,2 +1,3 @@
 # PM-class
-whatever you want. cute now might edit later. 
+
+putting demo stuff here to show the kids how to code. 
